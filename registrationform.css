@@ -1,0 +1,64 @@
+body{
+    background-color: #99dedc;
+}
+
+.main{
+    padding: 20px;
+}
+
+.form h1{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 30px;
+   text-align: center;
+   text-decoration: underline;
+   font-weight: bold;
+   color: black;
+   -webkit-text-stroke: 0.5%;
+   -webkit-text-stroke-color: black;
+}
+
+.form label{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 15px;
+   font-weight: bold;
+}
+
+.form input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    width: 98%;
+    height: 30px;
+    border-radius: 50px;
+}
+
+.table1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    width: 90%;
+}
+
+table{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    width: 90%;
+}
+
+td{
+    border:solid 1px whitesmoke;
+}
+
+th{
+    background-color: #e0c8f1;
+}
+
+.submitbtn{
+    background-color: gray;
+    color: white;
+    width: 100%;
+    border: 1px solid black;
+}
